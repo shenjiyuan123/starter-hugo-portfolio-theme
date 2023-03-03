@@ -1,7 +1,7 @@
 ---
 title: Jiyuan Shen (沈纪元)
 role: ""
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
